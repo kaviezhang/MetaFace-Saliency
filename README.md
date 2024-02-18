@@ -6,7 +6,9 @@ This is the source code for the paper "[Explain Vision Focus: Blending Human Sal
 <img  src="https://github.com/kaviezhang/MetaFace-Saliency/blob/main/Figs/saliency.png" width="600" />
 </p>
 We establish an eye-tracking database with 780 synthetic face images and collect fixation data from 22 participants. The synthetics allow for precise merging of expression animations onto the facial skeleton, resulting in more controlled and consistent experimental stimuli.
-The dataset can be downloaded from [Google drive](https://drive.google.com/drive/folders/1t1Yf0hRAFRyH7HCIDACmnNftQDo09qP_?usp=sharing) .
+The dataset can be downloaded from [Google drive]() .
+ [Google drive](https://drive.google.com/drive/folders/1t1Yf0hRAFRyH7HCIDACmnNftQDo09qP_?usp=sharing)  
+
 
 ## Model
 <p align = "center">    
