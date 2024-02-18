@@ -1,6 +1,6 @@
 # MetaFace-Saliency
 
-# Dataset
+## Dataset
 <p align = "center">    
 <img  src="https://github.com/kaviezhang/MetaFace-Saliency/blob/main/Figs/saliency.png" width="400" />
 </p>
@@ -15,10 +15,7 @@ The dataset can be downloaded from [Drive-Google]: https://drive.google.com/driv
 We develop a model for predicting saliency maps on synthetic face images. Especially in the testing of both our MetaFace and SALICON datasets, our method achieved state-of-the-art results. This will serve as a reference for attention distribution prediction in photo-realistic facial mesh model in virtual reality applications or games.
 
 ## Training & Testing on MetaFace databases
-'''
-train_metadataset.py
-'''
+  train_metadataset.py
+
 ## Training & Testing on SALICON databases
-'''
-train_salicon.py
-'''
+  train_salicon.py
